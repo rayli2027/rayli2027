@@ -49,9 +49,7 @@ I'm a passionate 3rd-year Computer Science student at UC Santa Barbara with a st
 ## 💼 Experience & Projects
 
 ### Notable Projects
-- **CS64** - Computer Architecture course project in C++
-- **SBHacks 12** - Hackathon project with team collaboration
-- **First Contributions** - Open-source contribution
+waiting to fill in
 
 ---
 
