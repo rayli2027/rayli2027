@@ -42,7 +42,7 @@ I'm a passionate 3rd-year Computer Science student at UC Santa Barbara with a st
 |--------|-------------|
 | **Institution** | University of California, Santa Barbara (UCSB) |
 | **Degree** | Bachelor of Science in Computer Science |
-| **Expected Graduation** | 2026 |
+| **Expected Graduation** | 2027 |
 
 ---
 
